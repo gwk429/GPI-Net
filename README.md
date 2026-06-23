@@ -3,7 +3,8 @@ PyTorch implementation of the paper 'GPI-Net'
 
 Weikang Gu, Mingyue Han, Li Xue, Heng Dong, Changcai Yang, Riqing Chen, Lifang Wei
 
-python train.py
+1. 训练室内场景3DMatch数据集以及3DLoMatch数据集：
+run：python train.py
 
 # Citation
 <details>
