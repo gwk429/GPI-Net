@@ -3,6 +3,8 @@ PyTorch implementation of the paper 'GPI-Net'
 
 Weikang Gu, Mingyue Han, Li Xue, Heng Dong, Changcai Yang, Riqing Chen, Lifang Wei
 
+python train.py
+
 # Citation
 <details>
   <summary>Click to view the citation</summary>
